@@ -29,8 +29,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution URL](https://github.com/Chiwanza16/QR-Code.git).
+- Live Site URL: [Live site](https://github.com/Chiwanza16/QR-Code.git)
 
 ## My process
 
